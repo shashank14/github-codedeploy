@@ -18,3 +18,11 @@ o/p
 ###### Shashanks-MacBook-Pro:github-codedeploy shashankragireddy$ 
 
 # Add Commit And push Files on github
+
+#### Make changes to a file and 
+#### git status
+#### git commit -am "updating readme file"---> comments 
+#### git push origin master
+
+######
+#### git config --global push.default simple
