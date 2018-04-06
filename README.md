@@ -2,6 +2,8 @@
 # github-codedeploy
 #### Shashank Ragireddy
 
+## These are config files
+
 ### git config --global user.name "username"
 ### git config --global user.email "username@gmail.com"
 
