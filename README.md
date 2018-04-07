@@ -35,3 +35,5 @@ o/p
 ## ADD new file (create a new file)
 #### git add --all (to add all new files)
 #### git add --test.txt
+#### git commit -m "message"
+#### git psuh origin master
