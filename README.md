@@ -50,4 +50,4 @@ o/p
 
 ## Create a new branch 
 #### git fetch (to see if they are any new branches)
-#### get checkout branch/shashank (to move to that brach)
+#### get checkout branch/shashank (to move to that branch)
