@@ -42,3 +42,7 @@ o/p
 ## Remove a file 
 
 #### git rm filename
+
+## PULL a file 
+
+#### git pull origin master
