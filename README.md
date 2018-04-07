@@ -53,7 +53,11 @@ o/p
 <<<<<<< HEAD
 #### get checkout branch/shashank (to move to that branch)
 =======
-#### get checkout branch/shashank (to move to that brach)
+#### get checkout branch/shashank (to move to that brach
+
+
+## Create a new branch 
+#### git checkout -b branch/shashank
 
 #### NEW LINE
 ##############
