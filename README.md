@@ -35,6 +35,10 @@ o/p
 ## ADD new file (create a new file)
 #### git add --all (to add all new files)
 #### git add test.txt (for a single file)
-)
 #### git commit -m "message"
 #### git push origin master
+
+
+## Remove a file 
+
+#### git rm filename
