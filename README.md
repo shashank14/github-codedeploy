@@ -30,3 +30,8 @@ o/p
 
 ######
 #### git config --global push.default simple
+
+
+## ADD new file (create a new file)
+#### git add --all (to add all new files)
+#### git add --test.txt
