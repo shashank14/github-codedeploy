@@ -37,4 +37,4 @@ o/p
 #### git add test.txt (for a single file)
 )
 #### git commit -m "message"
-#### git psuh origin master
+#### git push origin master
